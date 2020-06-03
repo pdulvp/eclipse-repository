@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <site>
-   <feature url="features/org.pdulvp.retriever.feature_1.0.0.202006031627.jar" id="org.pdulvp.retriever.feature" version="1.0.0.202006031627">
+   <feature url="features/org.pdulvp.retriever.feature_1.0.0.202006031637.jar" id="org.pdulvp.retriever.feature" version="1.0.0.202006031637">
       <category name="Retriever"/>
    </feature>
    <category-def name="Retriever" label="Retriever"/>
